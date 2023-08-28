@@ -28,16 +28,16 @@
  
 **设计思路：** 
 
-<div align=center><img width="600" height="500" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/68fd54aa-a0df-4efe-855d-d6d210215c86"/></div>
+<div align=center><img width="600" height="500" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/0da2b5df-3902-4643-9cce-e83f59166c06"/></div>
 
 **Matlab信号处理：** 
 
-<div align=center><img width="600" height="500" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/ab40471b-61f9-47a8-b674-7008ffda1522"/></div>
+<div align=center><img width="600" height="500" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/842de2d0-e083-4622-8b30-5751e29700d9"/></div>
 
 
 **成品展示：** 
 
-<div align=center><img width="600" height="400" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/0596d7d6-8f05-412b-ac8d-61ef632c7898"/></div>
+<div align=center><img width="600" height="400" src="https://github.com/zzpspierman123/Modulation_signal-Measurement/assets/104633510/57f4d249-6d81-4990-b2f1-12ab57e88605"/></div>
 
 ## 🛠Usage
 ***FPGA代码：*** 该文件含有FPGA的Quartus13代码。
