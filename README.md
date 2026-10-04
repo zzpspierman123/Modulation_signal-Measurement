@@ -48,10 +48,3 @@
   
 ***STM32代码：*** 该文件含STM32F407作为信号处理的代码。
 <div>
-
-
- 
-### 👨🏻‍💻Maintainers
-####     Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
-> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
-> 🌱 [@zzpspierman123](https://github.com/zzpspierman123)
